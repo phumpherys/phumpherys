@@ -1,4 +1,4 @@
-# phumpherys64/README.md
+# phumpherys/README.md
 
 - 👋 Hi, I’m @phumpherys
 - 📧 phumpherys@dentalintel.com
