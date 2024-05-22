@@ -15,7 +15,8 @@
 ![Pysical Graffiti][Physical Graffiti]  
 
 [Physical Graffiti]: images/philsicalgraffiti.jpg  
----  
+----------
+  
 *Philip Humpherys @phumpherys <phumpherys@dentalintel.com>*  
 *Tuesday, May 21st 2024*  
 
