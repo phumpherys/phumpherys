@@ -17,4 +17,5 @@
 [Physical Graffiti]: images/philsicalgraffiti.jpg  
 ----------
 *Philip Humpherys @phumpherys <phumpherys@dentalintel.com>*  
-date: "`r format(Sys.time(), '%d %B, %Y')`"  
+*Tuesday, May 21st 2024*  
+
