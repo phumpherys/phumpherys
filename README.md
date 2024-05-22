@@ -12,6 +12,9 @@
 
 🇹🇭 ฝรั่งที่พูดไทยเป็น  
 📷Physical Graffiti!  
-![Pysical Graffiti][Physical Graffiti]
+![Pysical Graffiti][Physical Graffiti]  
 
-[Physical Graffiti]: images/philsicalgraffiti.jpg
+[Physical Graffiti]: images/philsicalgraffiti.jpg  
+----------
+*Philip Humpherys @phumpherys <phumpherys@dentalintel.com>*  
+date: "`r format(Sys.time(), '%d %B, %Y')`"  
